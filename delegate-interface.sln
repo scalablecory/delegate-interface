@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29303.125
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "delegate-interface", "delegate-interface\delegate-interface.csproj", "{A0AE82E2-AEEC-410A-A3FC-2A8F39CFB863}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0AE82E2-AEEC-410A-A3FC-2A8F39CFB863}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0AE82E2-AEEC-410A-A3FC-2A8F39CFB863}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0AE82E2-AEEC-410A-A3FC-2A8F39CFB863}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0AE82E2-AEEC-410A-A3FC-2A8F39CFB863}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AA1B50F-3485-43EE-8FA1-E953D40A8E46}
+	EndGlobalSection
+EndGlobal
